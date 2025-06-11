@@ -1,0 +1,1001 @@
+Venda_ID;Data_Venda;Cliente_ID;Produto;Categoria;Valor;Quantidade
+1;15/01/2025;51;Ficção Científica;Livros;60.28;2
+2;12/12/2024;134;Chocolate;Alimentos;166.56;2
+3;07/05/2025;99;Quebra-Cabeça;Brinquedos;408.51;1
+4;12/03/2025;3;Smartwatch;Eletrônicos;364.65;3
+5;21/12/2024;171;Boneca;Brinquedos;138.11;4
+6;24/04/2025;243;Tênis;Roupas;69.41;3
+7;16/02/2025;10;Jaqueta;Roupas;96.82;1
+8;10/12/2024;92;Smartphone;Eletrônicos;234.34;3
+9;14/03/2025;239;Smartwatch;Eletrônicos;488.34;3
+10;11/03/2025;222;Autoajuda;Livros;356.18;2
+11;04/02/2025;290;Fone Bluetooth;Eletrônicos;85.62;4
+12;05/05/2025;216;Suco;Alimentos;344.2;5
+13;04/05/2025;84;Romance;Livros;140.19;1
+14;07/04/2025;38;Carrinho;Brinquedos;155.93;4
+15;28/03/2025;271;Ficção Científica;Livros;99.47;1
+16;24/03/2025;61;Smartphone;Eletrônicos;138.48;5
+17;22/04/2025;104;Camiseta;Roupas;162.79;1
+18;27/05/2025;31;Smartphone;Eletrônicos;427.54;5
+19;03/01/2025;207;Tênis;Roupas;105.69;1
+20;01/12/2024;113;Notebook;Eletrônicos;190.83;4
+21;30/12/2024;25;Smartwatch;Eletrônicos;267.39;3
+22;10/12/2024;281;Boneca;Brinquedos;303.48;1
+23;05/05/2025;240;Jaqueta;Roupas;321.79;1
+24;19/01/2025;47;Suco;Alimentos;156.72;4
+25;03/03/2025;21;Notebook;Eletrônicos;249.54;1
+26;28/02/2025;96;Calça Jeans;Roupas;382.66;3
+27;03/01/2025;31;Carrinho;Brinquedos;401.69;2
+28;22/03/2025;292;Jaqueta;Roupas;114.17;4
+29;06/04/2025;161;Suco;Alimentos;155.16;4
+30;15/12/2024;284;Ficção Científica;Livros;264.99;5
+31;20/12/2024;243;Boneca;Brinquedos;195.85;5
+32;14/05/2025;106;Smartphone;Eletrônicos;398.93;1
+33;10/05/2025;54;Autoajuda;Livros;232.43;2
+34;03/01/2025;197;Calça Jeans;Roupas;117.78;3
+35;13/02/2025;216;Notebook;Eletrônicos;315.17;1
+36;31/01/2025;283;Suco;Alimentos;317.76;3
+37;22/04/2025;143;Chocolate;Alimentos;148.81;5
+38;09/12/2024;235;Feijão;Alimentos;356.28;2
+39;23/04/2025;3;Arroz;Alimentos;74.34;5
+40;12/03/2025;291;Romance;Livros;148.45;1
+41;06/04/2025;222;Smartwatch;Eletrônicos;35.93;2
+42;28/05/2025;262;Fone Bluetooth;Eletrônicos;82.08;3
+43;22/04/2025;208;Romance;Livros;320.82;1
+44;19/05/2025;112;Feijão;Alimentos;54.8;4
+45;06/03/2025;35;Boneca;Brinquedos;319.66;3
+46;27/04/2025;291;Chocolate;Alimentos;415.34;4
+47;22/03/2025;49;História;Livros;335.16;2
+48;30/03/2025;129;Smartwatch;Eletrônicos;187.84;3
+49;10/03/2025;185;Chocolate;Alimentos;128.32;1
+50;27/03/2025;128;Boneca;Brinquedos;197.48;1
+51;24/01/2025;238;Carrinho;Brinquedos;326.16;4
+52;19/03/2025;205;Camiseta;Roupas;138.72;3
+53;26/04/2025;236;Romance;Livros;356.74;4
+54;12/05/2025;35;Jaqueta;Roupas;310.92;4
+55;09/03/2025;249;Arroz;Alimentos;157.41;1
+56;10/05/2025;20;Notebook;Eletrônicos;204.53;5
+57;07/05/2025;136;História;Livros;75.31;5
+58;01/12/2024;12;Romance;Livros;466.56;4
+59;02/02/2025;20;Camiseta;Roupas;173.16;3
+60;20/12/2024;72;Arroz;Alimentos;31.32;3
+61;25/12/2024;45;Jaqueta;Roupas;259.48;3
+62;25/05/2025;5;Ficção Científica;Livros;440.66;3
+63;15/05/2025;258;Chocolate;Alimentos;337.13;1
+64;18/12/2024;18;Romance;Livros;407.34;3
+65;03/02/2025;131;Tênis;Roupas;206.54;2
+66;25/01/2025;174;Carrinho;Brinquedos;370.74;2
+67;28/03/2025;40;Chocolate;Alimentos;76.02;4
+68;23/01/2025;23;Arroz;Alimentos;75.22;3
+69;24/04/2025;181;Smartwatch;Eletrônicos;24.91;1
+70;29/11/2024;277;Tênis;Roupas;63.4;1
+71;14/12/2024;230;Ficção Científica;Livros;393.92;3
+72;05/02/2025;254;Feijão;Alimentos;449.28;2
+73;16/01/2025;103;Carrinho;Brinquedos;151.67;3
+74;09/12/2024;73;Suco;Alimentos;122.92;4
+75;03/12/2024;280;Smartwatch;Eletrônicos;350.4;1
+76;21/01/2025;97;Feijão;Alimentos;10.09;1
+77;06/05/2025;37;Arroz;Alimentos;366.47;5
+78;30/11/2024;4;Boneca;Brinquedos;51.35;2
+79;01/05/2025;273;Fone Bluetooth;Eletrônicos;52.67;5
+80;05/03/2025;243;Calça Jeans;Roupas;233.45;2
+81;01/05/2025;23;Lego;Brinquedos;443.39;3
+82;10/03/2025;172;Arroz;Alimentos;110.18;5
+83;16/04/2025;57;Ficção Científica;Livros;318.07;4
+84;12/12/2024;275;Tênis;Roupas;356.64;1
+85;18/05/2025;91;Carrinho;Brinquedos;95.17;1
+86;07/01/2025;68;Fone Bluetooth;Eletrônicos;66.32;3
+87;22/12/2024;206;Chocolate;Alimentos;410.23;4
+88;22/05/2025;299;Boneca;Brinquedos;372.25;2
+89;23/03/2025;292;Arroz;Alimentos;425.27;5
+90;16/01/2025;39;Feijão;Alimentos;143.73;4
+91;23/04/2025;5;Autoajuda;Livros;110.42;1
+92;15/02/2025;125;Smartwatch;Eletrônicos;78.35;3
+93;05/03/2025;221;Jaqueta;Roupas;380.81;2
+94;16/05/2025;26;Lego;Brinquedos;274.06;2
+95;27/11/2024;117;Suco;Alimentos;479.7;3
+96;22/03/2025;54;Smartphone;Eletrônicos;167.3;1
+97;09/04/2025;52;História;Livros;209.51;3
+98;30/04/2025;296;Lego;Brinquedos;163.5;2
+99;24/02/2025;183;História;Livros;247.99;5
+100;07/04/2025;33;Quebra-Cabeça;Brinquedos;326.64;5
+101;14/04/2025;274;Lego;Brinquedos;419.32;1
+102;09/12/2024;73;Jaqueta;Roupas;161.58;4
+103;09/02/2025;194;Lego;Brinquedos;370.0;3
+104;31/12/2024;175;Notebook;Eletrônicos;344.25;5
+105;01/04/2025;222;Notebook;Eletrônicos;16.15;4
+106;23/04/2025;188;Carrinho;Brinquedos;245.68;4
+107;28/02/2025;29;Smartphone;Eletrônicos;183.29;4
+108;23/05/2025;225;Smartwatch;Eletrônicos;396.26;1
+109;16/02/2025;273;Romance;Livros;341.78;3
+110;14/03/2025;213;Quebra-Cabeça;Brinquedos;193.65;5
+111;23/01/2025;183;Arroz;Alimentos;35.8;2
+112;07/05/2025;165;Smartphone;Eletrônicos;359.53;5
+113;20/04/2025;184;Arroz;Alimentos;132.92;3
+114;09/04/2025;236;Notebook;Eletrônicos;38.84;5
+115;13/02/2025;41;Smartwatch;Eletrônicos;325.14;3
+116;04/05/2025;286;Ficção Científica;Livros;398.99;2
+117;02/05/2025;289;Tênis;Roupas;329.24;4
+118;11/05/2025;30;Fone Bluetooth;Eletrônicos;48.2;4
+119;22/02/2025;24;Lego;Brinquedos;263.93;4
+120;07/05/2025;247;Calça Jeans;Roupas;256.72;2
+121;19/12/2024;38;Suco;Alimentos;236.12;3
+122;01/04/2025;170;Tênis;Roupas;348.47;5
+123;05/02/2025;100;Camiseta;Roupas;88.92;5
+124;28/05/2025;134;Boneca;Brinquedos;167.77;3
+125;14/04/2025;294;Calça Jeans;Roupas;420.78;3
+126;30/03/2025;218;Feijão;Alimentos;12.96;5
+127;22/12/2024;66;Boneca;Brinquedos;348.95;4
+128;09/04/2025;92;Feijão;Alimentos;259.29;5
+129;21/05/2025;208;Jaqueta;Roupas;137.34;3
+130;24/05/2025;181;Arroz;Alimentos;440.39;2
+131;05/03/2025;24;Smartphone;Eletrônicos;331.85;3
+132;07/01/2025;216;Suco;Alimentos;466.19;2
+133;31/01/2025;183;Carrinho;Brinquedos;351.78;5
+134;07/04/2025;187;Chocolate;Alimentos;260.4;1
+135;08/02/2025;220;Suco;Alimentos;73.91;4
+136;12/04/2025;236;Smartwatch;Eletrônicos;35.69;3
+137;16/02/2025;99;Suco;Alimentos;493.91;4
+138;04/01/2025;107;Smartphone;Eletrônicos;45.64;3
+139;16/12/2024;122;Calça Jeans;Roupas;461.33;2
+140;29/11/2024;282;Chocolate;Alimentos;311.75;1
+141;10/03/2025;20;Lego;Brinquedos;58.5;1
+142;28/05/2025;167;Camiseta;Roupas;323.96;4
+143;23/02/2025;49;Calça Jeans;Roupas;302.57;3
+144;03/04/2025;237;Fone Bluetooth;Eletrônicos;465.71;4
+145;27/05/2025;93;Tênis;Roupas;430.65;3
+146;24/01/2025;290;Fone Bluetooth;Eletrônicos;423.09;4
+147;06/04/2025;205;Calça Jeans;Roupas;331.25;3
+148;06/04/2025;84;Boneca;Brinquedos;157.92;3
+149;06/02/2025;69;Chocolate;Alimentos;55.69;3
+150;27/05/2025;216;Jaqueta;Roupas;410.36;2
+151;17/01/2025;250;Chocolate;Alimentos;11.28;5
+152;28/11/2024;90;Camiseta;Roupas;212.72;4
+153;14/01/2025;236;Lego;Brinquedos;423.0;2
+154;17/03/2025;110;Feijão;Alimentos;445.49;2
+155;20/01/2025;191;História;Livros;164.62;5
+156;26/04/2025;36;Carrinho;Brinquedos;259.76;4
+157;30/01/2025;70;Jaqueta;Roupas;182.87;2
+158;23/05/2025;242;Notebook;Eletrônicos;267.65;1
+159;27/01/2025;185;Smartphone;Eletrônicos;414.6;1
+160;30/11/2024;84;Fone Bluetooth;Eletrônicos;493.53;5
+161;22/05/2025;36;Feijão;Alimentos;257.68;2
+162;10/12/2024;96;Quebra-Cabeça;Brinquedos;474.89;5
+163;01/03/2025;273;Ficção Científica;Livros;352.99;3
+164;19/01/2025;179;Suco;Alimentos;220.51;2
+165;17/01/2025;166;Calça Jeans;Roupas;189.6;4
+166;14/02/2025;298;Boneca;Brinquedos;248.23;4
+167;27/12/2024;13;Autoajuda;Livros;119.77;4
+168;28/04/2025;95;Feijão;Alimentos;240.51;2
+169;15/12/2024;47;Suco;Alimentos;438.73;2
+170;15/05/2025;57;Lego;Brinquedos;92.11;1
+171;12/01/2025;45;Autoajuda;Livros;14.97;1
+172;05/01/2025;146;Calça Jeans;Roupas;357.57;4
+173;28/04/2025;221;Smartphone;Eletrônicos;386.06;1
+174;30/11/2024;82;Camiseta;Roupas;237.01;2
+175;11/01/2025;73;Notebook;Eletrônicos;108.07;2
+176;19/03/2025;37;Ficção Científica;Livros;368.29;5
+177;13/05/2025;296;Tênis;Roupas;29.37;4
+178;10/12/2024;278;Camiseta;Roupas;44.68;4
+179;22/01/2025;159;Notebook;Eletrônicos;461.46;3
+180;05/03/2025;234;História;Livros;428.15;5
+181;14/05/2025;148;Feijão;Alimentos;54.49;5
+182;27/01/2025;100;Tênis;Roupas;93.95;4
+183;23/02/2025;40;Smartphone;Eletrônicos;69.41;3
+184;08/03/2025;43;Smartwatch;Eletrônicos;78.07;5
+185;04/02/2025;25;Boneca;Brinquedos;391.93;4
+186;17/12/2024;261;Smartphone;Eletrônicos;26.19;4
+187;28/04/2025;69;Quebra-Cabeça;Brinquedos;269.35;5
+188;27/01/2025;118;História;Livros;372.98;4
+189;29/03/2025;130;Ficção Científica;Livros;123.97;2
+190;05/02/2025;99;Lego;Brinquedos;407.22;2
+191;29/11/2024;232;Autoajuda;Livros;22.44;2
+192;05/03/2025;146;Arroz;Alimentos;313.93;3
+193;07/01/2025;78;Romance;Livros;212.35;4
+194;12/05/2025;193;Lego;Brinquedos;290.01;5
+195;29/12/2024;154;Boneca;Brinquedos;198.39;3
+196;31/12/2024;90;Suco;Alimentos;176.13;4
+197;26/03/2025;34;Smartphone;Eletrônicos;264.05;4
+198;07/04/2025;215;Lego;Brinquedos;487.03;2
+199;26/12/2024;124;Autoajuda;Livros;149.42;3
+200;02/03/2025;261;Fone Bluetooth;Eletrônicos;286.99;5
+201;07/02/2025;10;Romance;Livros;296.4;3
+202;11/04/2025;213;Quebra-Cabeça;Brinquedos;428.3;2
+203;16/04/2025;226;História;Livros;131.65;4
+204;22/12/2024;240;Arroz;Alimentos;419.89;3
+205;30/04/2025;134;Lego;Brinquedos;339.06;5
+206;17/05/2025;237;Jaqueta;Roupas;208.95;5
+207;02/04/2025;83;Calça Jeans;Roupas;255.57;3
+208;24/05/2025;65;Jaqueta;Roupas;369.14;3
+209;14/05/2025;78;Camiseta;Roupas;438.97;2
+210;13/02/2025;263;Lego;Brinquedos;485.68;1
+211;02/05/2025;164;Carrinho;Brinquedos;494.97;5
+212;19/04/2025;181;Suco;Alimentos;364.24;4
+213;27/02/2025;34;Fone Bluetooth;Eletrônicos;109.14;1
+214;18/01/2025;26;Suco;Alimentos;325.51;5
+215;20/05/2025;225;Suco;Alimentos;493.6;5
+216;09/01/2025;200;História;Livros;366.99;5
+217;18/02/2025;144;Jaqueta;Roupas;19.79;4
+218;10/12/2024;264;Smartphone;Eletrônicos;285.78;2
+219;15/12/2024;253;Feijão;Alimentos;183.86;3
+220;08/02/2025;109;Quebra-Cabeça;Brinquedos;174.25;2
+221;16/05/2025;218;Ficção Científica;Livros;49.09;4
+222;16/02/2025;80;Tênis;Roupas;148.49;1
+223;23/02/2025;109;Calça Jeans;Roupas;50.73;4
+224;12/04/2025;280;Ficção Científica;Livros;105.36;1
+225;01/03/2025;297;Smartwatch;Eletrônicos;135.3;1
+226;27/11/2024;175;Camiseta;Roupas;163.59;1
+227;15/02/2025;100;Chocolate;Alimentos;498.92;5
+228;13/04/2025;135;Jaqueta;Roupas;394.99;4
+229;16/04/2025;180;Carrinho;Brinquedos;350.29;1
+230;24/12/2024;119;Chocolate;Alimentos;276.26;2
+231;09/03/2025;212;Fone Bluetooth;Eletrônicos;115.97;3
+232;26/01/2025;41;Quebra-Cabeça;Brinquedos;393.62;3
+233;12/01/2025;194;Smartwatch;Eletrônicos;427.4;5
+234;08/02/2025;204;História;Livros;341.16;5
+235;06/05/2025;115;Smartwatch;Eletrônicos;323.32;4
+236;15/12/2024;127;Romance;Livros;266.59;1
+237;11/03/2025;47;Calça Jeans;Roupas;132.25;4
+238;22/04/2025;280;Ficção Científica;Livros;156.2;1
+239;02/04/2025;64;Ficção Científica;Livros;246.45;5
+240;30/04/2025;167;Autoajuda;Livros;91.21;4
+241;15/05/2025;247;Smartphone;Eletrônicos;164.63;3
+242;24/03/2025;79;Autoajuda;Livros;255.49;4
+243;21/05/2025;159;Camiseta;Roupas;141.16;1
+244;21/03/2025;142;Smartwatch;Eletrônicos;62.03;1
+245;03/05/2025;49;Fone Bluetooth;Eletrônicos;467.14;3
+246;28/12/2024;139;Jaqueta;Roupas;493.18;2
+247;15/12/2024;107;Lego;Brinquedos;65.97;4
+248;03/01/2025;208;Jaqueta;Roupas;336.17;2
+249;25/03/2025;270;Fone Bluetooth;Eletrônicos;460.72;1
+250;06/02/2025;203;Lego;Brinquedos;344.61;3
+251;25/04/2025;225;Camiseta;Roupas;210.7;5
+252;23/04/2025;274;Autoajuda;Livros;470.94;3
+253;23/04/2025;131;Lego;Brinquedos;30.99;1
+254;21/05/2025;273;Arroz;Alimentos;67.51;1
+255;30/01/2025;3;Arroz;Alimentos;438.38;1
+256;17/12/2024;293;Quebra-Cabeça;Brinquedos;52.26;5
+257;25/02/2025;44;Feijão;Alimentos;453.02;3
+258;01/05/2025;246;Boneca;Brinquedos;325.28;1
+259;11/05/2025;239;Autoajuda;Livros;460.82;2
+260;13/03/2025;51;Chocolate;Alimentos;371.89;5
+261;03/12/2024;44;Camiseta;Roupas;335.43;1
+262;18/04/2025;44;Lego;Brinquedos;398.76;5
+263;10/03/2025;177;Romance;Livros;380.29;5
+264;27/01/2025;254;Smartphone;Eletrônicos;215.32;3
+265;26/12/2024;199;Smartwatch;Eletrônicos;103.55;4
+266;20/03/2025;230;Smartwatch;Eletrônicos;331.07;2
+267;21/01/2025;247;Arroz;Alimentos;53.71;2
+268;05/02/2025;19;Calça Jeans;Roupas;391.86;1
+269;23/01/2025;282;Boneca;Brinquedos;153.67;4
+270;24/01/2025;193;Jaqueta;Roupas;344.33;1
+271;12/12/2024;243;Smartphone;Eletrônicos;280.16;4
+272;27/11/2024;138;Calça Jeans;Roupas;336.81;1
+273;21/04/2025;230;Romance;Livros;433.55;5
+274;05/04/2025;17;Jaqueta;Roupas;444.29;3
+275;01/03/2025;2;Autoajuda;Livros;162.59;4
+276;07/03/2025;82;Autoajuda;Livros;188.33;2
+277;06/04/2025;228;Fone Bluetooth;Eletrônicos;79.77;5
+278;12/01/2025;265;Lego;Brinquedos;230.93;4
+279;21/02/2025;54;Smartwatch;Eletrônicos;218.45;1
+280;08/01/2025;171;Camiseta;Roupas;396.41;4
+281;27/03/2025;10;Tênis;Roupas;403.31;5
+282;19/04/2025;178;Romance;Livros;365.15;4
+283;25/04/2025;154;Suco;Alimentos;49.24;1
+284;18/12/2024;204;Boneca;Brinquedos;336.94;3
+285;25/05/2025;7;Boneca;Brinquedos;361.59;3
+286;23/04/2025;233;Camiseta;Roupas;386.35;2
+287;04/04/2025;152;Quebra-Cabeça;Brinquedos;261.82;1
+288;14/05/2025;243;História;Livros;364.78;2
+289;01/02/2025;190;Camiseta;Roupas;338.48;3
+290;15/01/2025;108;Arroz;Alimentos;146.86;5
+291;28/05/2025;178;Ficção Científica;Livros;323.42;5
+292;17/02/2025;72;Romance;Livros;441.77;5
+293;21/01/2025;96;Smartphone;Eletrônicos;350.4;4
+294;03/12/2024;60;Autoajuda;Livros;171.54;1
+295;07/03/2025;216;Quebra-Cabeça;Brinquedos;380.97;1
+296;16/01/2025;181;Romance;Livros;385.22;5
+297;22/01/2025;242;Chocolate;Alimentos;90.21;1
+298;11/02/2025;48;Romance;Livros;11.03;1
+299;10/03/2025;55;Quebra-Cabeça;Brinquedos;432.76;5
+300;07/03/2025;51;Notebook;Eletrônicos;478.06;1
+301;04/01/2025;24;Smartwatch;Eletrônicos;77.68;5
+302;09/04/2025;63;Notebook;Eletrônicos;39.95;5
+303;23/02/2025;204;Ficção Científica;Livros;213.74;2
+304;30/03/2025;63;Lego;Brinquedos;242.6;3
+305;17/01/2025;78;Chocolate;Alimentos;413.33;2
+306;17/12/2024;177;Fone Bluetooth;Eletrônicos;51.47;2
+307;21/01/2025;144;Lego;Brinquedos;371.8;4
+308;23/12/2024;274;Lego;Brinquedos;246.37;1
+309;22/02/2025;231;Romance;Livros;247.09;4
+310;19/12/2024;141;Chocolate;Alimentos;110.84;5
+311;02/03/2025;67;Feijão;Alimentos;135.85;2
+312;21/03/2025;173;Smartwatch;Eletrônicos;174.65;4
+313;21/02/2025;82;Boneca;Brinquedos;86.43;4
+314;30/12/2024;228;Feijão;Alimentos;66.5;5
+315;10/02/2025;35;Calça Jeans;Roupas;458.15;2
+316;23/03/2025;227;Suco;Alimentos;304.05;5
+317;05/04/2025;176;Suco;Alimentos;251.08;1
+318;03/05/2025;2;Fone Bluetooth;Eletrônicos;105.65;3
+319;18/04/2025;79;Smartwatch;Eletrônicos;369.68;1
+320;23/01/2025;152;Ficção Científica;Livros;211.91;3
+321;19/03/2025;205;Fone Bluetooth;Eletrônicos;234.84;2
+322;08/04/2025;230;Boneca;Brinquedos;475.9;4
+323;14/04/2025;47;Autoajuda;Livros;148.11;1
+324;06/05/2025;168;Autoajuda;Livros;281.42;5
+325;27/04/2025;241;Calça Jeans;Roupas;196.34;5
+326;06/04/2025;104;Quebra-Cabeça;Brinquedos;319.24;2
+327;28/03/2025;285;Calça Jeans;Roupas;276.68;2
+328;28/05/2025;159;Chocolate;Alimentos;171.75;5
+329;03/02/2025;11;Camiseta;Roupas;174.57;4
+330;25/02/2025;87;Feijão;Alimentos;35.66;4
+331;19/01/2025;32;Smartphone;Eletrônicos;134.74;3
+332;05/05/2025;4;Notebook;Eletrônicos;369.61;3
+333;10/04/2025;280;Suco;Alimentos;260.96;3
+334;24/04/2025;269;Suco;Alimentos;165.58;2
+335;13/02/2025;10;Tênis;Roupas;469.5;2
+336;28/11/2024;101;Fone Bluetooth;Eletrônicos;160.33;4
+337;14/12/2024;110;Lego;Brinquedos;451.34;1
+338;04/02/2025;181;Chocolate;Alimentos;82.94;3
+339;04/12/2024;68;Boneca;Brinquedos;391.9;5
+340;04/02/2025;265;Jaqueta;Roupas;372.29;1
+341;10/05/2025;276;Notebook;Eletrônicos;368.97;4
+342;12/01/2025;91;Notebook;Eletrônicos;421.31;4
+343;12/03/2025;255;História;Livros;231.92;5
+344;15/01/2025;223;Carrinho;Brinquedos;94.94;1
+345;01/04/2025;180;Romance;Livros;431.87;4
+346;15/12/2024;111;Arroz;Alimentos;199.2;1
+347;31/01/2025;142;Carrinho;Brinquedos;380.11;3
+348;08/12/2024;55;Fone Bluetooth;Eletrônicos;441.47;2
+349;08/03/2025;41;Jaqueta;Roupas;272.34;3
+350;07/03/2025;8;Tênis;Roupas;97.78;2
+351;22/05/2025;181;Jaqueta;Roupas;488.55;1
+352;20/02/2025;76;Smartwatch;Eletrônicos;169.27;1
+353;28/01/2025;133;Chocolate;Alimentos;73.46;2
+354;24/05/2025;281;Camiseta;Roupas;454.89;2
+355;03/12/2024;119;Lego;Brinquedos;394.89;5
+356;06/03/2025;213;Tênis;Roupas;431.18;3
+357;18/04/2025;98;Smartwatch;Eletrônicos;408.41;5
+358;21/03/2025;138;Lego;Brinquedos;85.07;3
+359;06/01/2025;201;História;Livros;404.67;3
+360;27/05/2025;282;Boneca;Brinquedos;90.91;5
+361;16/05/2025;97;Carrinho;Brinquedos;304.27;3
+362;04/02/2025;180;Ficção Científica;Livros;298.68;2
+363;09/12/2024;113;Jaqueta;Roupas;302.46;5
+364;01/05/2025;50;Notebook;Eletrônicos;64.75;5
+365;23/01/2025;120;Quebra-Cabeça;Brinquedos;100.52;4
+366;29/12/2024;106;Tênis;Roupas;405.77;2
+367;04/04/2025;51;Fone Bluetooth;Eletrônicos;17.39;5
+368;01/02/2025;238;Autoajuda;Livros;410.15;4
+369;21/04/2025;117;Calça Jeans;Roupas;133.17;1
+370;15/12/2024;197;Fone Bluetooth;Eletrônicos;136.31;3
+371;08/01/2025;13;Suco;Alimentos;236.21;5
+372;27/02/2025;279;Fone Bluetooth;Eletrônicos;246.08;5
+373;30/04/2025;57;Notebook;Eletrônicos;274.71;2
+374;27/12/2024;212;Camiseta;Roupas;468.68;4
+375;25/12/2024;72;Chocolate;Alimentos;28.57;5
+376;30/01/2025;68;Boneca;Brinquedos;284.83;2
+377;14/05/2025;275;Suco;Alimentos;473.92;3
+378;05/04/2025;180;Suco;Alimentos;188.21;2
+379;19/02/2025;205;Chocolate;Alimentos;400.91;4
+380;24/12/2024;217;Notebook;Eletrônicos;297.54;5
+381;16/02/2025;101;Autoajuda;Livros;399.21;1
+382;17/05/2025;213;Chocolate;Alimentos;65.34;4
+383;27/03/2025;295;Lego;Brinquedos;86.06;4
+384;14/05/2025;233;Fone Bluetooth;Eletrônicos;61.44;3
+385;26/04/2025;223;Carrinho;Brinquedos;136.44;1
+386;06/03/2025;278;Autoajuda;Livros;61.68;5
+387;25/04/2025;239;Calça Jeans;Roupas;317.08;2
+388;18/03/2025;194;Smartphone;Eletrônicos;494.71;2
+389;01/05/2025;279;Quebra-Cabeça;Brinquedos;329.74;3
+390;22/04/2025;159;Chocolate;Alimentos;386.14;3
+391;06/03/2025;118;Arroz;Alimentos;355.4;5
+392;17/01/2025;264;Smartphone;Eletrônicos;304.29;1
+393;21/03/2025;291;Autoajuda;Livros;161.11;5
+394;04/03/2025;255;Fone Bluetooth;Eletrônicos;202.8;2
+395;29/01/2025;201;Notebook;Eletrônicos;198.63;2
+396;17/05/2025;187;Quebra-Cabeça;Brinquedos;410.5;1
+397;22/05/2025;212;Suco;Alimentos;408.64;5
+398;29/01/2025;48;Calça Jeans;Roupas;393.93;4
+399;24/12/2024;123;Jaqueta;Roupas;16.79;3
+400;03/12/2024;248;Smartphone;Eletrônicos;456.11;1
+401;14/04/2025;201;Romance;Livros;192.47;4
+402;07/12/2024;82;Quebra-Cabeça;Brinquedos;458.84;3
+403;26/01/2025;212;Calça Jeans;Roupas;431.58;2
+404;29/11/2024;17;Jaqueta;Roupas;69.3;1
+405;09/03/2025;187;Smartphone;Eletrônicos;85.97;4
+406;24/12/2024;298;Camiseta;Roupas;448.73;1
+407;20/01/2025;205;Quebra-Cabeça;Brinquedos;276.03;4
+408;01/03/2025;247;Ficção Científica;Livros;216.97;3
+409;22/12/2024;77;Chocolate;Alimentos;214.53;1
+410;11/04/2025;293;Suco;Alimentos;395.43;2
+411;11/01/2025;73;Camiseta;Roupas;127.14;4
+412;20/03/2025;229;Smartwatch;Eletrônicos;202.67;2
+413;12/04/2025;70;Ficção Científica;Livros;350.11;2
+414;25/05/2025;259;Romance;Livros;438.56;3
+415;16/04/2025;170;Carrinho;Brinquedos;405.89;4
+416;13/04/2025;40;Smartwatch;Eletrônicos;420.13;5
+417;04/12/2024;41;Autoajuda;Livros;96.72;4
+418;29/03/2025;71;Notebook;Eletrônicos;451.85;1
+419;20/12/2024;72;Tênis;Roupas;142.83;5
+420;17/12/2024;281;Lego;Brinquedos;365.83;3
+421;08/01/2025;251;Suco;Alimentos;399.47;3
+422;27/05/2025;275;Tênis;Roupas;93.78;3
+423;26/01/2025;143;Boneca;Brinquedos;25.79;4
+424;05/03/2025;35;Notebook;Eletrônicos;329.41;5
+425;11/03/2025;132;Feijão;Alimentos;273.57;4
+426;27/05/2025;137;Camiseta;Roupas;79.84;5
+427;26/03/2025;44;Fone Bluetooth;Eletrônicos;461.31;2
+428;06/03/2025;192;Notebook;Eletrônicos;235.15;4
+429;04/05/2025;165;Jaqueta;Roupas;186.86;1
+430;12/05/2025;171;Autoajuda;Livros;457.01;5
+431;05/04/2025;155;Suco;Alimentos;168.3;3
+432;15/05/2025;43;Autoajuda;Livros;395.21;3
+433;11/03/2025;46;Arroz;Alimentos;312.02;4
+434;07/02/2025;53;Calça Jeans;Roupas;353.31;5
+435;18/01/2025;111;Smartwatch;Eletrônicos;198.56;2
+436;01/02/2025;290;Autoajuda;Livros;423.24;4
+437;15/01/2025;188;Boneca;Brinquedos;296.95;1
+438;08/03/2025;290;Boneca;Brinquedos;282.37;4
+439;06/05/2025;98;Quebra-Cabeça;Brinquedos;330.56;2
+440;25/03/2025;237;Lego;Brinquedos;19.35;1
+441;07/01/2025;214;Boneca;Brinquedos;481.62;4
+442;29/11/2024;271;Jaqueta;Roupas;85.48;1
+443;15/05/2025;98;Arroz;Alimentos;275.17;5
+444;10/12/2024;240;História;Livros;78.29;2
+445;20/04/2025;14;Ficção Científica;Livros;185.97;4
+446;31/12/2024;138;História;Livros;331.55;2
+447;30/04/2025;53;Suco;Alimentos;260.21;3
+448;05/05/2025;112;Quebra-Cabeça;Brinquedos;104.14;2
+449;21/03/2025;188;Romance;Livros;78.07;3
+450;16/05/2025;154;Carrinho;Brinquedos;105.92;4
+451;15/12/2024;223;História;Livros;254.25;4
+452;22/12/2024;121;Camiseta;Roupas;212.36;2
+453;17/12/2024;64;Calça Jeans;Roupas;207.96;4
+454;04/12/2024;209;Camiseta;Roupas;145.65;1
+455;21/01/2025;62;Romance;Livros;456.89;3
+456;11/03/2025;139;Arroz;Alimentos;244.69;4
+457;15/02/2025;224;Carrinho;Brinquedos;425.52;1
+458;08/02/2025;260;Jaqueta;Roupas;60.62;3
+459;05/05/2025;136;Quebra-Cabeça;Brinquedos;125.32;2
+460;23/03/2025;145;Ficção Científica;Livros;249.71;4
+461;15/04/2025;228;Camiseta;Roupas;152.33;3
+462;17/12/2024;235;Jaqueta;Roupas;436.81;4
+463;12/03/2025;244;Chocolate;Alimentos;34.87;3
+464;03/05/2025;236;Smartwatch;Eletrônicos;216.12;1
+465;09/03/2025;136;Lego;Brinquedos;349.74;4
+466;10/12/2024;151;Jaqueta;Roupas;292.86;4
+467;12/03/2025;21;Fone Bluetooth;Eletrônicos;56.88;2
+468;12/02/2025;12;Boneca;Brinquedos;67.21;4
+469;17/04/2025;59;Quebra-Cabeça;Brinquedos;336.48;2
+470;17/01/2025;152;Fone Bluetooth;Eletrônicos;343.12;5
+471;01/01/2025;78;Camiseta;Roupas;78.6;2
+472;16/03/2025;278;Jaqueta;Roupas;368.64;2
+473;14/01/2025;97;Ficção Científica;Livros;453.01;3
+474;03/02/2025;123;Jaqueta;Roupas;132.01;3
+475;15/01/2025;159;Quebra-Cabeça;Brinquedos;356.68;1
+476;14/03/2025;276;Ficção Científica;Livros;362.25;1
+477;28/02/2025;109;Tênis;Roupas;275.05;2
+478;04/03/2025;284;Smartphone;Eletrônicos;80.14;4
+479;21/05/2025;109;Fone Bluetooth;Eletrônicos;292.06;3
+480;17/01/2025;73;Notebook;Eletrônicos;26.79;5
+481;13/05/2025;25;Tênis;Roupas;307.47;1
+482;18/02/2025;168;Lego;Brinquedos;41.6;3
+483;03/01/2025;107;Quebra-Cabeça;Brinquedos;280.62;3
+484;26/05/2025;138;Quebra-Cabeça;Brinquedos;281.95;2
+485;17/01/2025;179;Smartwatch;Eletrônicos;326.97;4
+486;16/02/2025;65;Ficção Científica;Livros;292.73;1
+487;27/11/2024;51;Camiseta;Roupas;455.58;2
+488;03/04/2025;258;Ficção Científica;Livros;438.48;5
+489;31/01/2025;93;Camiseta;Roupas;450.67;2
+490;27/01/2025;106;Calça Jeans;Roupas;454.44;5
+491;21/01/2025;25;Fone Bluetooth;Eletrônicos;442.61;1
+492;13/03/2025;138;Quebra-Cabeça;Brinquedos;401.2;4
+493;16/04/2025;219;Arroz;Alimentos;416.89;5
+494;14/01/2025;163;Tênis;Roupas;332.99;5
+495;01/05/2025;127;Chocolate;Alimentos;454.73;5
+496;24/03/2025;264;História;Livros;425.45;2
+497;09/01/2025;34;Lego;Brinquedos;374.74;4
+498;28/03/2025;213;Romance;Livros;374.6;3
+499;13/02/2025;184;Calça Jeans;Roupas;355.07;3
+500;23/12/2024;263;Camiseta;Roupas;143.58;2
+501;13/05/2025;127;Fone Bluetooth;Eletrônicos;27.06;5
+502;09/03/2025;70;Chocolate;Alimentos;70.5;5
+503;01/12/2024;19;Notebook;Eletrônicos;366.19;4
+504;07/02/2025;205;Boneca;Brinquedos;34.63;2
+505;31/03/2025;295;Boneca;Brinquedos;337.52;2
+506;15/12/2024;185;Chocolate;Alimentos;435.17;3
+507;09/01/2025;298;Camiseta;Roupas;79.89;2
+508;27/11/2024;14;Smartphone;Eletrônicos;140.59;3
+509;13/01/2025;19;Chocolate;Alimentos;482.54;1
+510;13/03/2025;290;Lego;Brinquedos;185.7;5
+511;20/03/2025;30;Chocolate;Alimentos;340.13;5
+512;09/03/2025;93;Quebra-Cabeça;Brinquedos;269.89;3
+513;16/05/2025;9;Ficção Científica;Livros;460.04;3
+514;08/12/2024;230;História;Livros;373.6;1
+515;20/12/2024;123;Fone Bluetooth;Eletrônicos;376.8;1
+516;17/12/2024;2;Camiseta;Roupas;439.82;5
+517;27/02/2025;245;Jaqueta;Roupas;117.05;3
+518;03/04/2025;205;Jaqueta;Roupas;359.82;1
+519;01/12/2024;270;Boneca;Brinquedos;168.69;5
+520;29/11/2024;178;Lego;Brinquedos;330.65;2
+521;24/03/2025;168;Suco;Alimentos;463.67;3
+522;27/12/2024;22;Notebook;Eletrônicos;117.66;2
+523;01/01/2025;170;Quebra-Cabeça;Brinquedos;10.67;3
+524;24/03/2025;64;Jaqueta;Roupas;327.59;2
+525;23/02/2025;6;Notebook;Eletrônicos;352.7;1
+526;04/05/2025;215;Calça Jeans;Roupas;486.86;3
+527;18/03/2025;210;Boneca;Brinquedos;366.08;2
+528;19/12/2024;263;Smartwatch;Eletrônicos;427.92;1
+529;22/12/2024;184;Arroz;Alimentos;189.84;4
+530;17/05/2025;113;Lego;Brinquedos;413.9;2
+531;25/01/2025;87;Boneca;Brinquedos;345.24;3
+532;06/02/2025;185;Smartwatch;Eletrônicos;496.63;2
+533;12/02/2025;63;Autoajuda;Livros;183.67;2
+534;04/04/2025;132;Carrinho;Brinquedos;260.81;2
+535;12/02/2025;279;Notebook;Eletrônicos;313.79;2
+536;25/12/2024;284;Tênis;Roupas;161.6;4
+537;15/04/2025;283;História;Livros;428.07;1
+538;18/04/2025;220;Romance;Livros;357.95;1
+539;09/05/2025;275;Lego;Brinquedos;138.82;2
+540;06/03/2025;300;Camiseta;Roupas;341.73;2
+541;31/12/2024;239;Suco;Alimentos;446.89;5
+542;26/12/2024;13;Fone Bluetooth;Eletrônicos;324.04;4
+543;05/03/2025;194;Autoajuda;Livros;207.74;5
+544;07/04/2025;125;Carrinho;Brinquedos;262.96;1
+545;15/12/2024;204;Chocolate;Alimentos;287.19;2
+546;08/12/2024;59;Boneca;Brinquedos;306.95;4
+547;06/02/2025;183;Lego;Brinquedos;191.14;1
+548;10/02/2025;275;Fone Bluetooth;Eletrônicos;159.59;2
+549;18/02/2025;152;História;Livros;313.77;1
+550;06/02/2025;239;Fone Bluetooth;Eletrônicos;410.03;4
+551;28/02/2025;146;Ficção Científica;Livros;312.71;4
+552;01/05/2025;88;Autoajuda;Livros;101.85;4
+553;12/04/2025;62;Tênis;Roupas;50.02;5
+554;17/05/2025;114;Feijão;Alimentos;167.13;3
+555;05/05/2025;42;Quebra-Cabeça;Brinquedos;154.81;5
+556;08/04/2025;268;Smartphone;Eletrônicos;38.6;4
+557;09/02/2025;35;Suco;Alimentos;343.47;4
+558;11/05/2025;41;Calça Jeans;Roupas;391.76;5
+559;05/01/2025;92;Arroz;Alimentos;183.68;2
+560;07/12/2024;246;Camiseta;Roupas;87.98;5
+561;16/01/2025;66;Feijão;Alimentos;361.96;2
+562;24/04/2025;1;Feijão;Alimentos;175.03;2
+563;09/03/2025;244;Notebook;Eletrônicos;302.57;1
+564;04/01/2025;172;Jaqueta;Roupas;102.97;5
+565;20/05/2025;184;Suco;Alimentos;391.01;4
+566;03/12/2024;206;Jaqueta;Roupas;129.99;3
+567;14/03/2025;32;Boneca;Brinquedos;135.95;3
+568;23/02/2025;32;Autoajuda;Livros;203.9;4
+569;30/04/2025;112;Romance;Livros;363.7;3
+570;02/01/2025;121;Jaqueta;Roupas;83.29;3
+571;06/01/2025;3;Fone Bluetooth;Eletrônicos;121.71;1
+572;02/04/2025;274;Chocolate;Alimentos;482.64;4
+573;31/01/2025;110;Boneca;Brinquedos;233.5;4
+574;07/04/2025;300;Autoajuda;Livros;446.02;2
+575;31/12/2024;24;Fone Bluetooth;Eletrônicos;371.13;4
+576;11/05/2025;177;Quebra-Cabeça;Brinquedos;205.33;3
+577;11/04/2025;242;Tênis;Roupas;419.33;2
+578;08/05/2025;292;Smartphone;Eletrônicos;154.5;1
+579;21/04/2025;100;Camiseta;Roupas;389.52;4
+580;08/04/2025;76;Tênis;Roupas;265.61;4
+581;06/02/2025;25;História;Livros;233.78;4
+582;19/03/2025;272;Camiseta;Roupas;325.29;1
+583;27/03/2025;267;Quebra-Cabeça;Brinquedos;221.89;2
+584;20/01/2025;184;Calça Jeans;Roupas;15.68;3
+585;24/01/2025;113;Suco;Alimentos;241.99;2
+586;25/05/2025;37;Jaqueta;Roupas;264.82;5
+587;11/12/2024;274;Autoajuda;Livros;273.47;1
+588;29/01/2025;95;Calça Jeans;Roupas;401.16;5
+589;15/02/2025;214;Ficção Científica;Livros;235.52;3
+590;24/05/2025;110;Camiseta;Roupas;425.97;1
+591;09/04/2025;249;Autoajuda;Livros;196.81;1
+592;10/12/2024;26;Boneca;Brinquedos;302.88;2
+593;24/04/2025;292;Boneca;Brinquedos;344.74;1
+594;06/02/2025;121;Lego;Brinquedos;141.47;4
+595;30/04/2025;176;Camiseta;Roupas;162.33;3
+596;18/12/2024;94;Romance;Livros;499.0;3
+597;05/12/2024;220;Romance;Livros;71.8;3
+598;19/01/2025;252;Quebra-Cabeça;Brinquedos;356.05;4
+599;30/12/2024;229;Carrinho;Brinquedos;199.77;1
+600;15/04/2025;293;Notebook;Eletrônicos;215.39;2
+601;27/01/2025;252;Smartphone;Eletrônicos;243.27;2
+602;24/12/2024;31;Notebook;Eletrônicos;241.3;2
+603;24/01/2025;291;Lego;Brinquedos;420.43;3
+604;20/03/2025;183;Suco;Alimentos;344.16;5
+605;03/01/2025;192;Ficção Científica;Livros;68.54;4
+606;19/02/2025;256;Ficção Científica;Livros;425.1;4
+607;26/03/2025;74;Chocolate;Alimentos;257.15;1
+608;10/12/2024;195;Smartphone;Eletrônicos;49.21;2
+609;12/12/2024;283;Chocolate;Alimentos;381.39;3
+610;15/04/2025;294;Carrinho;Brinquedos;42.94;5
+611;20/01/2025;84;Calça Jeans;Roupas;31.01;4
+612;31/01/2025;201;Autoajuda;Livros;471.41;3
+613;11/05/2025;143;Arroz;Alimentos;34.65;1
+614;25/05/2025;142;Feijão;Alimentos;149.42;4
+615;23/04/2025;4;Suco;Alimentos;168.23;2
+616;26/02/2025;13;Notebook;Eletrônicos;72.75;1
+617;19/04/2025;230;Chocolate;Alimentos;16.83;4
+618;13/03/2025;2;Suco;Alimentos;140.58;3
+619;25/12/2024;243;Smartphone;Eletrônicos;10.0;2
+620;09/01/2025;233;Tênis;Roupas;66.15;5
+621;03/05/2025;172;Arroz;Alimentos;271.93;3
+622;03/01/2025;207;Tênis;Roupas;118.92;1
+623;09/05/2025;263;Chocolate;Alimentos;206.66;4
+624;26/03/2025;265;Fone Bluetooth;Eletrônicos;353.99;1
+625;17/03/2025;29;Autoajuda;Livros;92.03;4
+626;03/02/2025;78;Smartwatch;Eletrônicos;276.3;2
+627;27/05/2025;131;Calça Jeans;Roupas;21.87;2
+628;27/05/2025;22;Quebra-Cabeça;Brinquedos;359.21;5
+629;22/05/2025;300;Quebra-Cabeça;Brinquedos;141.15;4
+630;07/04/2025;279;Jaqueta;Roupas;350.53;2
+631;29/01/2025;164;Notebook;Eletrônicos;464.67;3
+632;22/12/2024;41;História;Livros;191.65;1
+633;12/02/2025;260;Ficção Científica;Livros;293.68;2
+634;09/12/2024;267;Smartphone;Eletrônicos;362.72;1
+635;03/12/2024;168;Suco;Alimentos;53.56;4
+636;12/12/2024;192;Romance;Livros;297.1;2
+637;15/04/2025;252;Fone Bluetooth;Eletrônicos;337.58;2
+638;22/05/2025;21;Smartwatch;Eletrônicos;360.37;5
+639;03/02/2025;62;Ficção Científica;Livros;105.02;2
+640;03/12/2024;246;Ficção Científica;Livros;466.84;1
+641;10/04/2025;55;Carrinho;Brinquedos;254.92;5
+642;25/05/2025;282;Tênis;Roupas;216.17;5
+643;03/01/2025;86;Suco;Alimentos;171.12;4
+644;06/12/2024;210;Romance;Livros;299.77;3
+645;21/03/2025;7;Romance;Livros;323.68;5
+646;18/12/2024;216;Fone Bluetooth;Eletrônicos;418.58;3
+647;30/01/2025;40;Jaqueta;Roupas;196.03;5
+648;22/05/2025;48;Camiseta;Roupas;132.07;1
+649;01/03/2025;193;Carrinho;Brinquedos;106.1;2
+650;13/01/2025;151;Jaqueta;Roupas;377.81;4
+651;16/02/2025;206;Camiseta;Roupas;239.79;2
+652;03/03/2025;47;Suco;Alimentos;467.19;3
+653;02/01/2025;148;Autoajuda;Livros;295.94;1
+654;24/02/2025;193;Suco;Alimentos;259.84;3
+655;03/12/2024;5;Carrinho;Brinquedos;467.23;4
+656;08/01/2025;88;Carrinho;Brinquedos;171.08;1
+657;22/05/2025;239;Quebra-Cabeça;Brinquedos;113.39;2
+658;02/01/2025;53;Jaqueta;Roupas;190.13;1
+659;19/03/2025;57;Suco;Alimentos;342.84;4
+660;04/01/2025;214;Lego;Brinquedos;282.4;4
+661;12/01/2025;15;Ficção Científica;Livros;490.36;2
+662;27/11/2024;64;Quebra-Cabeça;Brinquedos;248.42;5
+663;12/04/2025;27;Smartwatch;Eletrônicos;33.86;1
+664;20/02/2025;295;Smartphone;Eletrônicos;449.1;1
+665;13/12/2024;48;História;Livros;328.49;2
+666;18/03/2025;53;Tênis;Roupas;422.5;1
+667;10/12/2024;281;Fone Bluetooth;Eletrônicos;408.1;4
+668;24/04/2025;123;Feijão;Alimentos;43.49;5
+669;26/03/2025;53;Ficção Científica;Livros;287.53;1
+670;24/05/2025;166;Autoajuda;Livros;201.62;5
+671;03/04/2025;108;Calça Jeans;Roupas;29.37;2
+672;08/02/2025;222;Camiseta;Roupas;175.88;5
+673;15/03/2025;75;Romance;Livros;463.09;5
+674;24/05/2025;251;Quebra-Cabeça;Brinquedos;214.86;2
+675;06/03/2025;87;Quebra-Cabeça;Brinquedos;329.9;1
+676;21/04/2025;218;Jaqueta;Roupas;214.11;1
+677;31/03/2025;82;Jaqueta;Roupas;207.24;3
+678;10/03/2025;6;Romance;Livros;264.98;3
+679;23/01/2025;193;História;Livros;496.78;4
+680;18/05/2025;237;Autoajuda;Livros;89.51;1
+681;19/05/2025;212;Feijão;Alimentos;286.74;3
+682;02/04/2025;138;Jaqueta;Roupas;190.77;1
+683;18/02/2025;163;Autoajuda;Livros;88.3;5
+684;12/03/2025;80;Smartwatch;Eletrônicos;335.63;5
+685;06/01/2025;172;Fone Bluetooth;Eletrônicos;74.31;1
+686;13/03/2025;144;Fone Bluetooth;Eletrônicos;362.93;3
+687;17/04/2025;212;Chocolate;Alimentos;132.2;1
+688;25/04/2025;96;História;Livros;346.79;5
+689;01/03/2025;85;Notebook;Eletrônicos;302.78;2
+690;02/03/2025;3;Fone Bluetooth;Eletrônicos;423.35;5
+691;26/02/2025;177;Tênis;Roupas;80.86;5
+692;16/04/2025;45;Smartphone;Eletrônicos;397.31;1
+693;30/01/2025;150;Romance;Livros;13.57;3
+694;01/04/2025;68;Romance;Livros;320.84;4
+695;08/05/2025;182;Boneca;Brinquedos;275.02;4
+696;01/02/2025;110;Arroz;Alimentos;166.55;2
+697;05/05/2025;74;Autoajuda;Livros;308.64;3
+698;17/05/2025;268;Lego;Brinquedos;301.97;3
+699;07/12/2024;16;Smartphone;Eletrônicos;387.74;5
+700;19/03/2025;126;Smartwatch;Eletrônicos;140.53;1
+701;04/02/2025;72;Calça Jeans;Roupas;408.49;1
+702;10/03/2025;154;Lego;Brinquedos;85.32;4
+703;07/04/2025;239;Romance;Livros;28.28;1
+704;14/01/2025;93;Suco;Alimentos;182.02;4
+705;09/01/2025;1;Smartphone;Eletrônicos;193.52;3
+706;25/02/2025;268;Smartwatch;Eletrônicos;103.93;2
+707;18/03/2025;293;Chocolate;Alimentos;126.5;5
+708;13/03/2025;269;História;Livros;456.06;3
+709;16/04/2025;19;Chocolate;Alimentos;426.84;2
+710;23/02/2025;269;Tênis;Roupas;231.0;1
+711;17/02/2025;119;Quebra-Cabeça;Brinquedos;406.2;4
+712;09/03/2025;134;Notebook;Eletrônicos;333.82;1
+713;10/12/2024;168;Feijão;Alimentos;390.12;3
+714;22/01/2025;164;Tênis;Roupas;51.26;4
+715;21/04/2025;38;Lego;Brinquedos;154.34;3
+716;26/04/2025;222;Autoajuda;Livros;126.41;5
+717;17/01/2025;130;História;Livros;210.51;1
+718;08/03/2025;113;Quebra-Cabeça;Brinquedos;113.45;4
+719;12/04/2025;259;Boneca;Brinquedos;143.81;2
+720;19/02/2025;186;Chocolate;Alimentos;87.21;2
+721;23/03/2025;59;Romance;Livros;423.37;4
+722;25/04/2025;204;Camiseta;Roupas;379.15;2
+723;18/12/2024;295;Ficção Científica;Livros;400.92;3
+724;24/04/2025;178;Suco;Alimentos;428.03;2
+725;20/12/2024;5;Camiseta;Roupas;493.1;1
+726;07/05/2025;200;Boneca;Brinquedos;10.81;1
+727;26/04/2025;224;Quebra-Cabeça;Brinquedos;119.29;5
+728;01/02/2025;269;Notebook;Eletrônicos;46.22;4
+729;04/05/2025;188;Romance;Livros;175.82;1
+730;28/05/2025;238;Quebra-Cabeça;Brinquedos;104.21;4
+731;08/05/2025;182;História;Livros;293.53;3
+732;17/04/2025;123;Chocolate;Alimentos;476.99;4
+733;04/02/2025;6;Jaqueta;Roupas;433.15;5
+734;25/02/2025;208;Ficção Científica;Livros;226.51;3
+735;02/03/2025;58;Notebook;Eletrônicos;271.22;5
+736;15/05/2025;180;Ficção Científica;Livros;268.21;5
+737;11/04/2025;248;Chocolate;Alimentos;170.83;1
+738;27/11/2024;85;Calça Jeans;Roupas;306.35;2
+739;16/05/2025;158;Notebook;Eletrônicos;257.54;4
+740;08/04/2025;40;Autoajuda;Livros;65.22;5
+741;16/03/2025;283;Carrinho;Brinquedos;245.17;2
+742;27/02/2025;261;Smartphone;Eletrônicos;211.66;5
+743;23/05/2025;272;Boneca;Brinquedos;13.08;4
+744;11/03/2025;214;Quebra-Cabeça;Brinquedos;265.3;4
+745;18/02/2025;191;História;Livros;249.19;4
+746;24/12/2024;228;Romance;Livros;280.52;2
+747;13/01/2025;185;Ficção Científica;Livros;330.83;1
+748;23/03/2025;162;Chocolate;Alimentos;283.43;2
+749;03/03/2025;213;Carrinho;Brinquedos;289.28;4
+750;26/05/2025;142;Feijão;Alimentos;366.79;2
+751;25/02/2025;106;Autoajuda;Livros;389.01;5
+752;16/12/2024;19;Ficção Científica;Livros;243.81;5
+753;25/01/2025;57;Lego;Brinquedos;415.37;4
+754;11/03/2025;295;Arroz;Alimentos;237.58;2
+755;27/05/2025;280;Smartwatch;Eletrônicos;331.94;5
+756;22/03/2025;88;Fone Bluetooth;Eletrônicos;392.1;1
+757;06/03/2025;270;Tênis;Roupas;445.84;3
+758;27/12/2024;177;Fone Bluetooth;Eletrônicos;479.95;3
+759;28/05/2025;88;Smartwatch;Eletrônicos;21.11;1
+760;26/04/2025;87;Carrinho;Brinquedos;21.63;4
+761;03/03/2025;130;Notebook;Eletrônicos;61.84;2
+762;14/12/2024;137;Tênis;Roupas;177.44;4
+763;12/02/2025;11;Lego;Brinquedos;70.76;4
+764;17/02/2025;286;Feijão;Alimentos;52.99;1
+765;23/12/2024;163;História;Livros;330.98;3
+766;26/12/2024;57;Boneca;Brinquedos;245.27;2
+767;09/12/2024;142;História;Livros;146.2;1
+768;31/12/2024;167;Romance;Livros;97.1;2
+769;24/02/2025;259;História;Livros;146.86;2
+770;11/04/2025;292;Carrinho;Brinquedos;430.72;5
+771;16/04/2025;239;Autoajuda;Livros;177.83;1
+772;21/02/2025;244;Jaqueta;Roupas;146.01;2
+773;30/12/2024;295;Smartwatch;Eletrônicos;92.76;4
+774;09/12/2024;153;Arroz;Alimentos;161.55;5
+775;28/04/2025;125;Arroz;Alimentos;323.51;3
+776;21/03/2025;114;Ficção Científica;Livros;113.13;3
+777;28/03/2025;7;Fone Bluetooth;Eletrônicos;110.14;2
+778;16/05/2025;179;Feijão;Alimentos;207.98;5
+779;26/05/2025;300;Suco;Alimentos;364.79;1
+780;07/04/2025;115;Arroz;Alimentos;162.43;1
+781;26/05/2025;155;Autoajuda;Livros;274.45;3
+782;11/04/2025;82;Feijão;Alimentos;97.45;1
+783;01/12/2024;188;Carrinho;Brinquedos;136.78;1
+784;01/05/2025;50;Suco;Alimentos;10.39;4
+785;20/03/2025;110;Chocolate;Alimentos;305.73;2
+786;25/12/2024;108;História;Livros;88.14;3
+787;12/03/2025;273;Suco;Alimentos;120.94;5
+788;04/12/2024;107;Chocolate;Alimentos;43.66;3
+789;19/12/2024;239;Feijão;Alimentos;75.34;2
+790;17/04/2025;168;Notebook;Eletrônicos;146.77;5
+791;01/12/2024;296;Notebook;Eletrônicos;319.92;5
+792;09/02/2025;241;Boneca;Brinquedos;55.93;1
+793;02/03/2025;231;Autoajuda;Livros;379.01;3
+794;23/05/2025;163;Tênis;Roupas;289.23;1
+795;30/04/2025;298;Suco;Alimentos;132.66;2
+796;11/05/2025;40;Arroz;Alimentos;192.83;1
+797;28/05/2025;192;Ficção Científica;Livros;405.89;3
+798;27/02/2025;249;Autoajuda;Livros;476.96;5
+799;06/01/2025;199;Autoajuda;Livros;404.7;3
+800;15/05/2025;139;Feijão;Alimentos;211.2;3
+801;18/05/2025;202;Boneca;Brinquedos;311.93;5
+802;29/04/2025;254;Boneca;Brinquedos;418.81;5
+803;13/04/2025;237;Smartphone;Eletrônicos;246.85;2
+804;25/05/2025;73;Ficção Científica;Livros;19.59;3
+805;06/04/2025;57;Calça Jeans;Roupas;121.8;4
+806;26/05/2025;228;Smartwatch;Eletrônicos;330.4;3
+807;03/12/2024;117;Smartphone;Eletrônicos;167.81;3
+808;06/01/2025;136;Tênis;Roupas;286.44;2
+809;13/12/2024;63;Fone Bluetooth;Eletrônicos;299.88;3
+810;21/01/2025;174;Ficção Científica;Livros;204.32;3
+811;23/03/2025;284;Lego;Brinquedos;112.22;5
+812;17/12/2024;256;Chocolate;Alimentos;440.88;2
+813;24/01/2025;239;Jaqueta;Roupas;354.5;5
+814;11/05/2025;227;Fone Bluetooth;Eletrônicos;155.19;3
+815;22/05/2025;174;Fone Bluetooth;Eletrônicos;327.52;3
+816;09/02/2025;66;Lego;Brinquedos;398.25;2
+817;24/05/2025;136;Arroz;Alimentos;123.31;5
+818;25/01/2025;67;Fone Bluetooth;Eletrônicos;308.22;2
+819;19/01/2025;90;História;Livros;471.25;3
+820;21/05/2025;86;Lego;Brinquedos;394.7;2
+821;30/03/2025;241;Fone Bluetooth;Eletrônicos;168.19;3
+822;17/03/2025;281;História;Livros;327.64;3
+823;24/04/2025;228;Autoajuda;Livros;283.96;1
+824;11/04/2025;143;Arroz;Alimentos;423.31;4
+825;08/01/2025;261;Autoajuda;Livros;176.31;5
+826;11/03/2025;71;Lego;Brinquedos;264.45;4
+827;04/02/2025;69;Smartphone;Eletrônicos;419.01;4
+828;26/05/2025;22;Carrinho;Brinquedos;190.51;2
+829;04/04/2025;176;Jaqueta;Roupas;87.28;4
+830;27/02/2025;140;Romance;Livros;434.79;1
+831;15/01/2025;25;Chocolate;Alimentos;96.08;1
+832;19/03/2025;250;Ficção Científica;Livros;436.97;4
+833;28/01/2025;149;História;Livros;347.26;4
+834;26/04/2025;230;Feijão;Alimentos;53.09;5
+835;21/12/2024;129;Tênis;Roupas;434.53;2
+836;18/03/2025;259;Arroz;Alimentos;430.83;4
+837;25/02/2025;193;Feijão;Alimentos;363.02;4
+838;04/01/2025;237;Arroz;Alimentos;10.53;3
+839;03/02/2025;67;Notebook;Eletrônicos;95.51;4
+840;20/02/2025;42;Ficção Científica;Livros;212.6;5
+841;17/01/2025;206;Jaqueta;Roupas;37.13;1
+842;16/02/2025;160;Jaqueta;Roupas;322.72;2
+843;19/03/2025;245;Tênis;Roupas;201.51;4
+844;03/03/2025;292;Ficção Científica;Livros;188.98;4
+845;25/05/2025;148;Boneca;Brinquedos;63.91;5
+846;13/04/2025;54;Ficção Científica;Livros;307.37;2
+847;16/04/2025;85;Camiseta;Roupas;58.82;1
+848;08/05/2025;279;Calça Jeans;Roupas;78.39;3
+849;24/02/2025;67;Suco;Alimentos;251.25;1
+850;26/03/2025;43;Arroz;Alimentos;483.99;4
+851;10/01/2025;266;Boneca;Brinquedos;382.68;4
+852;12/05/2025;236;Lego;Brinquedos;400.01;3
+853;03/01/2025;15;Camiseta;Roupas;228.77;2
+854;09/03/2025;209;História;Livros;77.03;2
+855;14/02/2025;206;Notebook;Eletrônicos;63.21;5
+856;27/11/2024;122;Smartphone;Eletrônicos;143.17;4
+857;05/02/2025;18;História;Livros;318.42;5
+858;13/02/2025;184;Romance;Livros;232.49;2
+859;12/05/2025;140;Arroz;Alimentos;112.97;3
+860;28/05/2025;21;Smartphone;Eletrônicos;490.66;1
+861;15/04/2025;278;Suco;Alimentos;193.55;3
+862;08/01/2025;157;Quebra-Cabeça;Brinquedos;380.42;5
+863;27/11/2024;87;Romance;Livros;25.03;2
+864;22/02/2025;260;Lego;Brinquedos;436.08;2
+865;11/04/2025;66;Autoajuda;Livros;196.02;3
+866;12/02/2025;5;Suco;Alimentos;40.95;3
+867;15/01/2025;70;Camiseta;Roupas;221.88;1
+868;05/04/2025;23;Smartwatch;Eletrônicos;417.23;4
+869;25/12/2024;39;Smartwatch;Eletrônicos;431.89;2
+870;04/12/2024;133;Romance;Livros;182.18;1
+871;08/01/2025;175;Smartwatch;Eletrônicos;461.56;5
+872;20/02/2025;57;Boneca;Brinquedos;309.84;1
+873;27/02/2025;42;Fone Bluetooth;Eletrônicos;267.5;2
+874;23/12/2024;267;Lego;Brinquedos;166.81;3
+875;26/01/2025;198;Ficção Científica;Livros;194.85;5
+876;20/04/2025;49;Fone Bluetooth;Eletrônicos;259.07;1
+877;02/01/2025;52;Ficção Científica;Livros;214.29;4
+878;19/04/2025;18;Smartwatch;Eletrônicos;176.73;1
+879;16/12/2024;49;Feijão;Alimentos;96.94;3
+880;04/03/2025;38;Camiseta;Roupas;332.71;5
+881;01/12/2024;232;Chocolate;Alimentos;434.27;4
+882;01/01/2025;36;Ficção Científica;Livros;326.73;1
+883;20/05/2025;19;Feijão;Alimentos;288.73;1
+884;12/02/2025;164;Carrinho;Brinquedos;160.68;5
+885;26/02/2025;233;Chocolate;Alimentos;93.27;1
+886;05/03/2025;68;Smartphone;Eletrônicos;302.9;5
+887;03/01/2025;50;Camiseta;Roupas;422.11;4
+888;26/03/2025;54;Fone Bluetooth;Eletrônicos;185.12;3
+889;20/12/2024;220;Calça Jeans;Roupas;162.79;1
+890;11/04/2025;253;Ficção Científica;Livros;443.05;2
+891;28/01/2025;126;Smartphone;Eletrônicos;104.49;2
+892;01/04/2025;43;Smartwatch;Eletrônicos;285.73;2
+893;19/12/2024;183;Feijão;Alimentos;15.68;2
+894;20/01/2025;6;Quebra-Cabeça;Brinquedos;423.33;4
+895;22/02/2025;57;Romance;Livros;280.11;2
+896;23/02/2025;133;Suco;Alimentos;197.36;2
+897;01/03/2025;287;Smartphone;Eletrônicos;167.6;4
+898;17/03/2025;64;Lego;Brinquedos;56.2;5
+899;23/02/2025;153;Carrinho;Brinquedos;77.08;3
+900;02/05/2025;155;Feijão;Alimentos;160.09;5
+901;03/12/2024;197;Lego;Brinquedos;294.58;3
+902;31/01/2025;212;Tênis;Roupas;148.24;1
+903;06/05/2025;181;Smartwatch;Eletrônicos;483.9;2
+904;22/02/2025;173;Autoajuda;Livros;326.32;3
+905;19/02/2025;56;Tênis;Roupas;309.02;1
+906;16/05/2025;141;História;Livros;410.32;2
+907;26/01/2025;205;Quebra-Cabeça;Brinquedos;462.41;2
+908;09/05/2025;299;Jaqueta;Roupas;209.67;1
+909;14/12/2024;4;Carrinho;Brinquedos;352.3;2
+910;20/12/2024;96;Boneca;Brinquedos;411.19;5
+911;01/02/2025;46;Lego;Brinquedos;340.29;3
+912;07/05/2025;225;Romance;Livros;90.5;4
+913;21/03/2025;218;Quebra-Cabeça;Brinquedos;325.03;5
+914;22/04/2025;284;Calça Jeans;Roupas;187.62;5
+915;17/01/2025;187;Tênis;Roupas;316.88;2
+916;15/04/2025;251;Boneca;Brinquedos;344.18;3
+917;17/01/2025;114;Notebook;Eletrônicos;190.45;4
+918;09/02/2025;120;Boneca;Brinquedos;254.74;3
+919;28/11/2024;73;Smartphone;Eletrônicos;183.22;3
+920;04/05/2025;26;Boneca;Brinquedos;89.89;1
+921;29/01/2025;236;Tênis;Roupas;97.06;3
+922;01/02/2025;97;História;Livros;354.71;1
+923;11/02/2025;156;Smartwatch;Eletrônicos;88.71;1
+924;06/02/2025;161;Boneca;Brinquedos;173.29;4
+925;21/03/2025;163;Autoajuda;Livros;164.36;2
+926;19/04/2025;127;Smartphone;Eletrônicos;15.05;5
+927;14/01/2025;20;Smartwatch;Eletrônicos;317.58;2
+928;09/12/2024;21;Suco;Alimentos;117.98;2
+929;12/04/2025;292;Boneca;Brinquedos;358.67;5
+930;08/02/2025;220;Quebra-Cabeça;Brinquedos;264.08;3
+931;30/11/2024;186;Tênis;Roupas;218.03;1
+932;17/01/2025;296;Lego;Brinquedos;184.92;3
+933;07/05/2025;255;Fone Bluetooth;Eletrônicos;431.98;5
+934;27/01/2025;294;Smartwatch;Eletrônicos;370.1;1
+935;11/12/2024;116;Autoajuda;Livros;125.78;1
+936;03/12/2024;204;Smartphone;Eletrônicos;470.36;4
+937;21/03/2025;270;Tênis;Roupas;96.14;5
+938;25/03/2025;161;Smartwatch;Eletrônicos;231.69;5
+939;09/04/2025;9;Romance;Livros;472.1;2
+940;01/03/2025;231;Arroz;Alimentos;317.53;5
+941;18/03/2025;149;Chocolate;Alimentos;192.03;3
+942;21/01/2025;293;Quebra-Cabeça;Brinquedos;493.56;5
+943;14/01/2025;16;Camiseta;Roupas;83.4;5
+944;16/02/2025;290;Ficção Científica;Livros;308.41;4
+945;16/01/2025;276;Carrinho;Brinquedos;368.86;5
+946;16/01/2025;58;Carrinho;Brinquedos;335.37;4
+947;10/01/2025;231;Smartphone;Eletrônicos;464.93;3
+948;02/01/2025;196;Smartphone;Eletrônicos;411.0;5
+949;16/03/2025;67;Suco;Alimentos;212.3;4
+950;07/01/2025;128;Lego;Brinquedos;424.66;5
+951;14/01/2025;175;Romance;Livros;441.4;2
+952;25/02/2025;217;Ficção Científica;Livros;438.33;4
+953;11/12/2024;241;Feijão;Alimentos;229.06;1
+954;07/02/2025;263;Calça Jeans;Roupas;485.87;5
+955;15/05/2025;2;Quebra-Cabeça;Brinquedos;419.75;5
+956;03/03/2025;225;Notebook;Eletrônicos;472.89;1
+957;13/02/2025;218;Arroz;Alimentos;177.89;3
+958;23/05/2025;239;Jaqueta;Roupas;19.15;4
+959;13/12/2024;149;Smartphone;Eletrônicos;406.13;5
+960;24/12/2024;199;Lego;Brinquedos;197.39;1
+961;10/05/2025;43;Carrinho;Brinquedos;272.04;3
+962;11/12/2024;136;Ficção Científica;Livros;304.73;4
+963;10/01/2025;3;Quebra-Cabeça;Brinquedos;440.78;5
+964;04/04/2025;127;Smartphone;Eletrônicos;486.72;5
+965;15/12/2024;35;Autoajuda;Livros;243.93;1
+966;25/01/2025;228;Smartwatch;Eletrônicos;288.13;5
+967;29/03/2025;134;Romance;Livros;157.38;3
+968;09/05/2025;27;Romance;Livros;383.37;2
+969;18/12/2024;45;Fone Bluetooth;Eletrônicos;491.44;1
+970;13/02/2025;20;História;Livros;110.73;5
+971;04/02/2025;87;Suco;Alimentos;324.89;1
+972;23/12/2024;238;Autoajuda;Livros;492.72;2
+973;09/01/2025;83;Ficção Científica;Livros;64.01;2
+974;11/12/2024;257;Notebook;Eletrônicos;213.81;5
+975;22/03/2025;136;Smartphone;Eletrônicos;196.41;5
+976;14/01/2025;71;Fone Bluetooth;Eletrônicos;28.74;3
+977;02/04/2025;132;História;Livros;98.84;5
+978;13/04/2025;30;Carrinho;Brinquedos;288.46;3
+979;10/04/2025;248;Arroz;Alimentos;111.96;2
+980;19/12/2024;173;História;Livros;348.78;5
+981;09/01/2025;94;Quebra-Cabeça;Brinquedos;74.66;5
+982;14/12/2024;185;Smartphone;Eletrônicos;160.76;4
+983;18/05/2025;146;Quebra-Cabeça;Brinquedos;362.89;2
+984;08/05/2025;8;Tênis;Roupas;145.57;3
+985;23/03/2025;5;Jaqueta;Roupas;198.31;1
+986;31/12/2024;240;Romance;Livros;303.05;4
+987;02/12/2024;176;Jaqueta;Roupas;415.98;1
+988;15/02/2025;180;Jaqueta;Roupas;460.69;5
+989;12/02/2025;84;Camiseta;Roupas;432.12;2
+990;23/02/2025;148;Fone Bluetooth;Eletrônicos;37.3;5
+991;27/05/2025;214;Boneca;Brinquedos;394.89;5
+992;31/12/2024;285;Jaqueta;Roupas;365.67;3
+993;04/04/2025;153;História;Livros;306.26;2
+994;10/02/2025;219;Suco;Alimentos;490.2;5
+995;14/03/2025;165;Camiseta;Roupas;307.84;4
+996;17/04/2025;64;Chocolate;Alimentos;186.55;5
+997;10/04/2025;118;Chocolate;Alimentos;252.91;4
+998;04/05/2025;18;Smartwatch;Eletrônicos;472.36;4
+999;17/12/2024;264;História;Livros;491.49;1
+1000;17/05/2025;78;Arroz;Alimentos;129.86;2
